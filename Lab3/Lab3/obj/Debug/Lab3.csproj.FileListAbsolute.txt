@@ -1,0 +1,63 @@
+C:\Users\Evg\source\repos\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+C:\Users\Evg\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Evg\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Evg\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Evg\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\VOVA_VASILISHIN\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Evg\Desktop\текущие занятия\Владимир Василишин\2 курс\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Рабочий стол\Lab3_1\Lab3_dynamic\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Рабочий стол\Lab3\Lab3\bin\Debug\Lab3.1.xlsm
+D:\Рабочий стол\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Рабочий стол\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Рабочий стол\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Рабочий стол\Lab3\Lab3\obj\Debug\Lab3.pdb
